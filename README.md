@@ -1,66 +1,42 @@
-# Johan Giron
+# Irenio Johan
 
-**Software Developer | AI Agents & Automation | Python/Django **
+**Backend Developer | Python, Django & PostgreSQL | APIs, Process Automation & Applied AI (RAG)**
 
-Software developer based in Boa Vista, Roraima, Brazil. I currently work with
-institutional systems and process automation at DPE/RR, using technologies such
-as Python, Django, React, PostgreSQL, Git and Sentry.
+Backend developer from Boa Vista, Roraima, Brazil. I build APIs and automations that remove manual work, and I like problems where software meets real people: public services, data, maps and games.
 
-My experience includes software maintenance, requirements analysis, access
-control, authentication logs, technical documentation and workflow automation.
+For two years I worked on institutional systems at the Public Defender's Office of Roraima (DPE/RR), first as a backend developer and then as the sole IT person for an entire unit.
 
 ## Highlights
 
-- Technical degree in Information Technology.
-- Final-semester student in Systems Analysis and Development at IFRR.
-- PIBICT/IFRR researcher working on IARAG, a project involving AI agents.
-- Contributed to two systems used in itinerant public-service events serving
-  thousands of people.
-- Developed automations that increased service capacity by approximately 40%.
-- NASA Space Apps Challenge Global Nominee.
-- Organizer at FarolDev, supporting the local developer community.
-- Advanced English and fluent Spanish.
+- Automated data retrieval and form filling in public-service workflows, contributing to a **~40% increase in weekly service capacity**.
+- Delivered HR system modules (leave, attendance, career-progression calculations) with Python, Django and PostgreSQL.
+- Sole IT person for the DPE Itinerante unit: user support, network, accounts, permissions and authentication-log review.
+- PIBICT/IFRR researcher building a RAG assistant with FastAPI, Qdrant and BGE-M3 embeddings.
+- NASA Space Apps Challenge Global Nominee · Organizer at FarolDev.
+- Systems Analysis and Development at IFRR (graduating March 2027) · Advanced English, fluent Spanish.
 
-## Current Focus
+## Featured projects
 
-- AI agents and workflow automation
-- Retrieval-Augmented Generation (RAG)
-- Backend development with Python and Django
-- REST API development and integration
-- Secure software development and application security
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Irrint**](https://github.com/annynyx/irrint) · [live demo](https://irrigacao-int.vercel.app) | Smart-irrigation prototype (my final thesis): hybrid mobile app, control API decoupled from hardware through an OpenAPI contract, idempotent commands and a device simulator with a 3D lab. Public signed APK. | TypeScript, Android, OpenAPI |
+| [**comarcas-brasil**](https://github.com/annynyx/comarcas-brasil) | One-command pipeline that builds Brazil's base maps (states, municipalities, judicial districts, relief, temperature) from official IBGE data, plus an embeddable web viewer. 19 automated tests. | Python, GIS, web |
+| [**sonic-chronicles-decomp**](https://github.com/annynyx/sonic-chronicles-decomp) | Decompilation and reverse-engineering project of *Sonic Chronicles: The Dark Brotherhood* (Nintendo DS). | Python, reverse engineering |
+| [**Manual Itinerante**](https://www.itinerante.app/) | Process documentation site for a public-service team with little technical background. | Astro Starlight |
+| **IARAG** (research) | RAG assistant that answers questions about IFRR's academic regulations. Code is private while the research is ongoing. | FastAPI, Qdrant, LLMs |
 
-## Core Technologies
+Institutional source code from DPE/RR is not public due to confidentiality and data-protection requirements.
 
-**Backend:** Python, Django, Java, Spring Boot  
-**Frontend:** JavaScript, React  
-**Databases:** PostgreSQL, MySQL  
-**Tools:** Git, GitHub, Docker, Sentry  
-**Environments:** Linux, Windows  
-**Currently studying:** AI agents, RAG, OWASP, software testing and cybersecurity
+## Tech
 
-## Featured Work
-
-### IARAG — PIBICT/IFRR Research Project
-
-Research project involving AI agents and intelligent information processing.
-Public technical details and artifacts will be added as the research progresses.
-
-### Institutional Systems and Automation
-
-Development and maintenance of systems supporting public-service operations.
-Created workflow and document automations that contributed to an approximately
-40% increase in service capacity.
-
-> Institutional source code and sensitive information are not publicly
-> available due to confidentiality and data-protection requirements.
-
-### NASA Space Apps Challenge
-
-Global Nominee for the development of a technology solution during the NASA
-Space Apps Challenge.
+- **Backend:** Python, Django, Django REST Framework, FastAPI, REST APIs
+- **Data:** PostgreSQL, MySQL, Qdrant (vector DB)
+- **Frontend:** JavaScript, TypeScript, React
+- **Tools:** Git, GitHub, Docker, Linux, Windows/PowerShell
+- **Learning now:** AI agents, application security (OWASP), software testing
 
 ## Contact
 
+- LinkedIn: [linkedin.com/in/johangiron](https://www.linkedin.com/in/johangiron)
 - Email: johan.contratos@gmail.com
-- Location: Boa Vista, Roraima, Brazil
-- Available for remote opportunities in Brazil
+- Open to backend and full-stack roles: remote or relocation within Brazil.
